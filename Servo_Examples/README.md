@@ -3,7 +3,7 @@
 ### Connection Table
 | Color Cable | Arduino Uno  |MG995 sERVO Motor|
 |-------------|--------------|-----------------|
-| Orange      | D7           |   PWM PIN       |
+| Orange      | D6           |   PWM PIN       |
 | Red         |  5V          |  VCC            |
 | Brown       | GND          |  GND            |
 ## Circuit Image
