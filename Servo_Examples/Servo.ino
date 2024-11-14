@@ -2,9 +2,6 @@
 #define SERVO_PIN 7  // PWM Signal
 Servo servo;   
 
-void example(){
-}
-
 // Swift movement
 void Smove(int degrees) {
   for (int pos = 0; pos <= degrees; pos += 1) { // move from 0 to degrees
