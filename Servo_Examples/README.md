@@ -1,10 +1,9 @@
-# Servo
-## MG995 Servo Motor
+# Servo Motor Schematics
 ### Connection Table
-| Color Cable | Arduino Uno  |MG995 Servo Motor|
+| Color Cable | Arduino Uno  |Servo Motor|
 |-------------|--------------|-----------------|
-| Orange      | D7           |   PWM PIN       |
-| Red         |  5V          |  VCC            |
+| Orange      | D7           |   PWM/Signal PIN       |
+| Red         | 5V           |  VCC            |
 | Brown       | GND          |  GND            |
-## Circuit Image
-![Image](Images/MG995.png)
+## Circuit 
+![Image](Images/Servo.png)
