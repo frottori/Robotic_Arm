@@ -6,4 +6,4 @@
 | Red         | 5V           |  VCC            |
 | Brown       | GND          |  GND            |
 ## Circuit 
-![Image](Images/Servo.png)
+![Image](Servo.png)
