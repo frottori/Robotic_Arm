@@ -7,4 +7,4 @@
 | Red         |  5V          |  VCC            |
 | Brown       | GND          |  GND            |
 ## Circuit Image
-![Image](/Images/MG995.png)
+![Image](Servo_Examples/Images/MG995.png)
