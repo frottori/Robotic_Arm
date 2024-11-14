@@ -1,5 +1,5 @@
 #include <Servo.h>   
-#define SERVO_PIN 7  // PWM Signal
+#define SERVO_PIN 6  // PWM Signal
 Servo MG995;   
 
 void example(){
