@@ -1,1 +1,1 @@
-## Robotic Arm with Color Sensor (Arduino)
+## Robotic Arm with Camera Module - Object and Color Recognition
